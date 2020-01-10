@@ -2,6 +2,7 @@
 Backup your save every 5 minutes. Windows
 
 # Batch Code
+- Run it in ```%appdata%\mindustry\```.
 ```
 @echo off
 :loop
